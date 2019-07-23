@@ -1,1 +1,4 @@
-Please read me :(
+This is an unfinished colege project for a graphic adventure where you have to solve a crime by using objects and talking to people.
+Most of the art and code are done, and the story is completely written. 
+The gameplay loop is closed, so the game in this stage is playable. There were plans to make puzzles for players to solve, but the only
+one we had time for was a timing puzzle that ended up not being implemented.
